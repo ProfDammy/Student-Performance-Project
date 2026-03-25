@@ -1,30 +1,30 @@
-Student Academic Performance Analysis Using SPSS
+## Student Academic Performance Analysis Using SPSS
 
-Problem
+## Problem
 Academic performance varies among students due to multiple lifestyle and academic factors.
 
-Objectives
+## Objectives
 • Identify key predictors of GPA
 • Examine relationships between study habits and performance
 
-Methodology
+## Methodology
 Dataset of 250 students analyzed using SPSS.
 
-Techniques Used
+## Techniques Used
 • Descriptive statistics
 • Correlation analysis
 • T-test
 • ANOVA
 • Multiple regression
 
-Key Findings
+## Key Findings
 Study hours and attendance significantly predict GPA while excessive social media usage negatively correlates with performance.
 
-Tools
+## Tools
 SPSS
 Excel
 
-Files
+## Files
 student_academic_performances.xlsx
 Student_Performance.spv
 Student_Performance.sav
